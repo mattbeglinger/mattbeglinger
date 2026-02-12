@@ -5,7 +5,7 @@ Software Developer
 ------------------
 
 * 🌍  I'm based in Minnesota
-* 🖥️  Follow me on [Medium]([http://mattbeglinger.com](https://matt-beglinger.medium.com/))
+* 🖥️  Follow me on [Medium]((https://matt-beglinger.medium.com/))
 
 ### Skills
 
