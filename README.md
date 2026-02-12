@@ -4,11 +4,8 @@ Hi 👋 My name is Matt Beglinger
 Software Developer
 ------------------
 
-* 🌍  I'm based in Iowa
-* 🖥️  See my portfolio at [My Portfolio](http://mattbeglinger.com)
-* ✉️  You can contact me at [mattbeglinger@gmail.com](mailto:mattbeglinger@gmail.com)
-* 🚀  I'm currently working on [my Team Management app](http://mattbeglinger.com)
-* 🧠  I'm learning the MEAN stack
+* 🌍  I'm based in Minnesota
+* 🖥️  Follow me on [Medium]([http://mattbeglinger.com](https://matt-beglinger.medium.com/))
 
 ### Skills
 
